@@ -1,2 +1,2 @@
 # Description
-Alat sederhana yang dapat melakukan operasi aritmatika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian Dirancang menggunakan HTML untuk struktur, CSS untuk gaya, dan JavaScript untuk logika dan interaktivitas
+Sebuah alat sederhana yang mampu melakukan operasi aritmatika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian dirancang dengan memanfaatkan HTML untuk membangun strukturnya, CSS untuk memberikan tampilan gaya, dan JavaScript untuk mengatur logika serta interaksinya. Proyek mini ini juga akan dibahas saat webinar Sinau Koding, di mana peserta dapat belajar langsung cara membuatnya.
